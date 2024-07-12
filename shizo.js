@@ -58,7 +58,7 @@ import readline from 'readline'
 dotenv.config() 
 
 async function main() {
-  const txt = process.env.SESSION_ID
+  const txt = 'oreobyshizo~b2B99A1C' //process.env.SESSION_ID
   if (!txt) {
     console.error('Environment variable not found.')
     return
