@@ -205,7 +205,7 @@ export async function handler(chatUpdate) {
         await delay(time)
       }, time)
     }
-    if (process.env.MODE && process.env.MODE.toLowerCase() === 'private' && !(isROwner || isOwner))
+    if (!(isROwner || isOwner))
       return
 
     if (m.isBaileys) return
