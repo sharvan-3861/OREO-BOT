@@ -6,14 +6,15 @@ import fs from 'fs'
 
 //OwnerShip
 global.owner = [
-  [process.env.OWNER_NUMBER || '919637987574', process.env.OWNER_NAME || 'Developer Shizo 🤖', true],
+  [process.env.OWNER_NUMBER || '917814963286', process.env.OWNER_NAME || 'Ashraf', true],
   ['919637987574', 'Shizo Techie ❤️✨', true]
 ]
-global.mods = []
-global.prems = []
+global.mods = ['919637987574','919637987574']
+global.prems = ['919637987574','919637987574']
+global.allowed = ['919637987574','919637987574']
 
-global.author = process.env.OWNER_NAME || 'Shizo The Techie'
-global.botname = process.env.BOT_NAME || 'OREO-BOT'
+global.author = process.env.OWNER_NAME || '⏤͟͟͞➣⃟⃟🖤Asнraf~ ⃟⃟⃟⃟🦇'
+global.botname = process.env.BOT_NAME || '⏤͟͟͞➣⃟⃟🖤Asнraf~ ⃟⃟⃟⃟🦇'
 global.oname = author
 global.bname = botname
 
@@ -26,8 +27,47 @@ global.shizokeys = 'shizo'
 
 //Sticker Watermarks
 global.packname = process.env.BOT_NAME || 'OREO-BOT 🥵'
-global.stkpack = process.env.BOT_NAME || 'OREO-BOT 🥵'
-global.stkowner = process.env.OWNER_NAME || '© Shizo The Techie'
+global.stkpack = process.env.BOT_NAME || '𝛫𝛨𝛥𝛮 𝑆𝛥𝛥𝐵 <<<3                                                          
+
+
+
+
+
+
+
+
+
+
+
+
+             
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+
+
+   
+
+
+
+
+
+
+
+
+  𓆩𓂍𓆪'
+global.stkowner = process.env.OWNER_NAME || '⏤͟͟͞➣⃟⃟🖤Asнraf~ ⃟⃟⃟⃟🦇'
 
 //Watermark
 global.maker = process.env.MAKER || 'Made with ❤️ by OREO-BOT'
@@ -56,9 +96,6 @@ global.replitHost = 0
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['919637987574','919637987574']
-global.prems = ['919637987574','919637987574']
-global.allowed = ['919637987574','919637987574']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
