@@ -27,7 +27,7 @@ global.shizokeys = 'shizo'
 
 //Sticker Watermarks
 global.packname = process.env.BOT_NAME || 'OREO-BOT 🥵'
-global.stkpack = process.env.BOT_NAME || '𝛫𝛨𝛥𝛮 𝑆𝛥𝛥𝐵 <<<3                                                          
+global.stkpack = process.env.BOT_NAME || `𝛫𝛨𝛥𝛮 𝑆𝛥𝛥𝐵 <<<3                                                          
 
 
 
@@ -66,7 +66,7 @@ global.stkpack = process.env.BOT_NAME || '𝛫𝛨𝛥𝛮 𝑆𝛥𝛥𝐵 <<<3
 
 
 
-  𓆩𓂍𓆪'
+  𓆩𓂍𓆪`
 global.stkowner = process.env.OWNER_NAME || '⏤͟͟͞➣⃟⃟🖤Asнraf~ ⃟⃟⃟⃟🦇'
 
 //Watermark
