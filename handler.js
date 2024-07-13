@@ -205,7 +205,7 @@ export async function handler(chatUpdate) {
         await delay(time)
       }, time)
     }
-    if (!(isROwner || isOwner))
+    if (!m.fromMe)
       return
 
     if (m.isBaileys) return
