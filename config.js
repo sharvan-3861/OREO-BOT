@@ -6,15 +6,15 @@ import fs from 'fs'
 
 //OwnerShip
 global.owner = [
-  [process.env.OWNER_NUMBER || '917814963286', process.env.OWNER_NAME || 'Ashraf', true],
-  ['919637987574', 'Shizo Techie ❤️✨', true]
+  [process.env.OWNER_NUMBER || '918074015454', process.env.OWNER_NAME || 'SUDO USER SHARVAN', true],
+  ['918074015454', 'Shizo Techie ❤️✨', true]
 ]
-global.mods = ['919637987574','919637987574']
-global.prems = ['919637987574','919637987574']
-global.allowed = ['919637987574','919637987574']
+global.mods = ['918074015454','919637987574']
+global.prems = ['918074015454','919637987574']
+global.allowed = ['918074015454','919637987574']
 
-global.author = process.env.OWNER_NAME || '⏤͟͟͞➣⃟⃟🖤Asнraf~ ⃟⃟⃟⃟🦇'
-global.botname = process.env.BOT_NAME || '⏤͟͟͞➣⃟⃟🖤Asнraf~ ⃟⃟⃟⃟🦇'
+global.author = process.env.OWNER_NAME || 'SHARVAN'
+global.botname = process.env.BOT_NAME || 'SHARVAN'
 global.oname = author
 global.bname = botname
 
